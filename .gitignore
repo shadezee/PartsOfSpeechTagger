@@ -1,0 +1,17 @@
+# Ignore .env file
+.env
+
+# Ignore .vscode folder
+.vscode/
+
+# Ignore build folders
+**/build*/
+
+# Ignore nltk data folders
+**/nltk_data*/
+
+# Ignore collected pos data
+data/
+
+# __pycache__ folders
+**/__pycache__/
